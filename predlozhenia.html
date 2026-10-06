@@ -1,0 +1,79 @@
+<!doctype html>
+<html lang="bg">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Dental Flower — два варианта</title>
+<style>
+  :root { --bg:#f6f4f2; --ink:#1d1a1b; --mute:#5f5a5c; --line:#e2dcdd; --card:#fff; --a:#a3405f; --b:#141414; }
+  * { box-sizing: border-box; }
+  body { margin:0; background:var(--bg); color:var(--ink); font:17px/1.6 system-ui, "Segoe UI", sans-serif; }
+  .wrap { max-width:1200px; margin:0 auto; padding:0 16px; }
+  header { padding:64px 0 32px; }
+  h1 { font-size:clamp(2rem,1.4rem + 2.4vw,3.2rem); line-height:1.1; margin:0 0 16px; }
+  .lead { color:var(--mute); max-width:62ch; margin:0; }
+  section { background:var(--card); border:1px solid var(--line); border-radius:10px; padding:clamp(20px,3vw,40px); margin:0 0 32px; }
+  .tag { display:inline-block; font-size:.75rem; letter-spacing:.14em; text-transform:uppercase; color:#fff; padding:4px 10px; border-radius:999px; }
+  #v1 .tag { background:var(--a); } #v2 .tag { background:var(--b); }
+  h2 { font-size:1.8rem; margin:12px 0 8px; }
+  .grid { display:grid; gap:24px; grid-template-columns:1fr; margin:16px 0 24px; }
+  @media (min-width:800px) { .grid { grid-template-columns:1fr 1fr; } }
+  ul { margin:0; padding-left:1.2em; } li { margin:4px 0; }
+  h3 { font-size:1rem; margin:0 0 6px; }
+  .frame { display:block; position:relative; border:1px solid var(--line); border-radius:8px; overflow:hidden; height:70vh; min-height:420px; }
+  .frame:hover { border-color:var(--ink); }
+  .frame::after { content:"Отвори дизайна →"; position:absolute; right:16px; bottom:16px; background:var(--ink); color:#fff; padding:10px 18px; border-radius:999px; font-weight:600; }
+  iframe { width:100%; height:100%; border:0; display:block; pointer-events:none; }
+  .open { display:inline-block; margin-top:12px; color:var(--ink); font-weight:600; }
+  footer { color:var(--mute); padding:8px 0 64px; }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <h1>Dental Flower Studio — два варианта за новия сайт</h1>
+    <p class="lead">Подготвих две различни посоки за сайта на студиото. И двете съдържат едни и същи неща — услуги, публикувани цени, резултати „преди и след“, представяне на д-р Нейчева и бърз начин за записване на час. Разликата е в характера: как изглежда и какво усещане оставя у пациента. Разгледайте ги и ми кажете кой е по-близо до вас.</p>
+  </header>
+
+  <section id="v1">
+    <span class="tag">Вариант 1</span>
+    <h2>Нежен и личен</h2>
+    <p>Топъл, светъл сайт с класически серифен шрифт и приглушен розов акцент, вдъхновен от цветето в логото. Акцентът е върху д-р Нейчева като лице на студиото и върху реалните резултати на пациентите.</p>
+    <div class="grid">
+      <div><h3>Подходящ, ако искате</h3><ul>
+        <li>сайтът да изглежда изискано и женствено, близо до естетична клиника;</li>
+        <li>пациентът да усети лично отношение, а не голяма клиника;</li>
+        <li>записване на час директно през Viber и WhatsApp.</li>
+      </ul></div>
+      <div><h3>Основни секции</h3><ul>
+        <li>Резултати „преди и след“</li><li>Красота и здраве в един план</li>
+        <li>Услуги и цени</li><li>Д-р Ц. Нейчева · Студиото · Запишете час</li>
+      </ul></div>
+    </div>
+    <a class="frame" href="design_1/index.html"><iframe src="design_1/index.html" tabindex="-1" title="Превю на вариант 1" loading="lazy"></iframe></a>
+    <a class="open" href="design_1/index.html">Отвори вариант 1 →</a>
+  </section>
+
+  <section id="v2">
+    <span class="tag">Вариант 2</span>
+    <h2>Смел и модерен</h2>
+    <p>Изчистен, контрастен сайт в черно и топло сиво, с едри заглавия с главни букви. Звучи уверено и директно — като модерно студио, което няма какво да крие, включително цените си.</p>
+    <div class="grid">
+      <div><h3>Подходящ, ако искате</h3><ul>
+        <li>студиото да се откроява от останалите в Стара Загора;</li>
+        <li>по-силно, по-„архитектурно“ и съвременно излъчване;</li>
+        <li>кратки, ясни послания и записване с едно обаждане.</li>
+      </ul></div>
+      <div><h3>Основни секции</h3><ul>
+        <li>Студиото — светло, остъклено и тихо</li><li>Три нива на една усмивка</li>
+        <li>Клинични случаи</li><li>Цени · Д-р Цветелина Нейчева · Запишете час</li>
+      </ul></div>
+    </div>
+    <a class="frame" href="design_2/dental-flower/index.html"><iframe src="design_2/dental-flower/index.html" tabindex="-1" title="Превю на вариант 2" loading="lazy"></iframe></a>
+    <a class="open" href="design_2/dental-flower/index.html">Отвори вариант 2 →</a>
+  </section>
+
+  <footer>Двата варианта са дизайн предложения. Текстовете и снимките ще бъдат финализирани заедно с вас след избора на посока.</footer>
+</div>
+</body>
+</html>

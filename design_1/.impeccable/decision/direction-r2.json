@@ -1,0 +1,131 @@
+{
+  "title": "Feminine & elegant — Dental Flower Studio",
+  "question": "Steered toward a high-end aesthetic studio / perfume-house feeling. The roll assigned The Invitation Suite. Keep it, take the alternate, or re-roll.",
+  "options": [
+    {
+      "id": "assigned",
+      "label": "The Invitation Suite",
+      "kicker": "THE ROLL",
+      "lineage": "fine letterpress stationery: an invitation, a reply card, a menu card and a lined envelope",
+      "thesis": "You are not processed, you are invited: the studio speaks in fine stationery, with each card a personal note from her.",
+      "palette": ["#5B1F3D", "#FFFFFF", "#EBC4CC", "#B97A6A", "#2A1E24"],
+      "materials": ["heavy white cotton card", "blind-debossed flower monogram", "rose-gold foil", "plum envelope with a patterned floral liner"],
+      "viewport": "A plum envelope fills the screen, its floral liner open, and a white cotton invitation card rises from it: a debossed flower monogram, 'Dental Flower Studio' in foil, her welcome line, and a foil-edged 'Запиши час' reply card tucked beside it.",
+      "risk": "Stationery can feel like a wedding invitation; it has to stay clearly a dental studio, with services and prices one card away.",
+      "raised": [
+        { "from": "dream-surreal-impossible-worlds-luminescent-alien-understory", "raise": "Foil is reserved for the single focused or primary element; everything else stays ink." },
+        { "from": "scientific-notation-oscilloscope-signal-bench", "raise": "Every card's size comes from one proportional stationery system, so nothing is sized ad hoc." },
+        { "from": "pop-culture-shelf-character-goods-catalog", "raise": "Every treatment card has fixed furniture: a name, what it is for, visits, time and price." },
+        { "from": "hand-drawn-zine-explainer", "raise": "Each treatment carries one plain sentence, the way she would explain it across the chair." },
+        { "from": "posters-covers-sleeves-wuxia-painted-hoarding", "raise": "Each viewport is one held moment, owned by a single card." },
+        { "from": "clay-ceramics-fracture-coiled-earth-tower", "raise": "Regular care is shown as a dated sequence of visits, not left as a vague promise." }
+      ]
+    },
+    {
+      "id": "model-pick",
+      "label": "Maison de Parfum",
+      "kicker": "IMPECCABLE’S PICK",
+      "lineage": "niche perfume houses: a glass flacon, a satin-lined box and the olfactory pyramid",
+      "thesis": "The smile composed like a fragrance: top, heart and base notes become consultation, plan and lasting care.",
+      "palette": ["#F2D7DC", "#3B1830", "#C08A7A", "#FFFFFF", "#8E5A74"],
+      "materials": ["flacon glass with soft refraction", "satin box lining", "embossed house name", "three-tier note pyramid"],
+      "viewport": "A blush satin field with an enormous refined wordmark, a 'Нотки' pyramid of the three stages of care, and a slim booking line.",
+      "risk": "It's the most familiar luxury-beauty language, and close to every high-end aesthetic clinic."
+    },
+    {
+      "id": "challenger-understory",
+      "label": "Luminescent Understory",
+      "verdict": "declined",
+      "lineage": "an invented night forest",
+      "thesis": "Botany made to glow.",
+      "palette": ["#0E0F0C", "#9EE6F0", "#C9A8F2"],
+      "materials": ["spore glow", "root veins"],
+      "viewport": "A dark forest path that lights up as you approach.",
+      "case": "Fuses poorly: dark and sci-fi, not a calm studio.",
+      "kept": "Foil is reserved for the single focused element.",
+      "risk": "Unsettling.",
+      "hero": "https://impeccable.style/worlds/cards/dream-surreal-impossible-worlds-luminescent-alien-understory-hero.webp"
+    },
+    {
+      "id": "challenger-scope",
+      "label": "Signal Bench",
+      "verdict": "declined",
+      "lineage": "CRT oscilloscope",
+      "thesis": "Everything measured on one graticule.",
+      "palette": ["#0A0F0A", "#39FF6A", "#FFB000"],
+      "materials": ["phosphor", "etched grid"],
+      "viewport": "One scope screen.",
+      "case": "Fuses poorly: it is technical, not feminine.",
+      "kept": "One proportional system sizes every card.",
+      "risk": "Cold.",
+      "hero": "https://impeccable.style/worlds/cards/scientific-notation-oscilloscope-signal-bench-hero.webp"
+    },
+    {
+      "id": "challenger-goods",
+      "label": "Character Catalog",
+      "verdict": "declined",
+      "lineage": "mascot goods catalog",
+      "thesis": "A ranked roster of mascots.",
+      "palette": ["#FCE4EC", "#FFF3C4", "#C7E9F1"],
+      "materials": ["pastel cells", "name plates"],
+      "viewport": "A grid of mascots.",
+      "case": "Fuses poorly: too childish for this audience.",
+      "kept": "Each treatment has fixed card furniture.",
+      "risk": "Toy-like.",
+      "hero": "https://impeccable.style/worlds/cards/pop-culture-shelf-character-goods-catalog-hero.webp"
+    },
+    {
+      "id": "challenger-zine",
+      "label": "Napkin Zine",
+      "verdict": "declined",
+      "lineage": "hand-drawn explainer zine",
+      "thesis": "A friend sketching the explanation.",
+      "palette": ["#F6EFDC", "#111111", "#FF7AB6"],
+      "materials": ["marker", "highlighter"],
+      "viewport": "Doodled panels.",
+      "case": "Fuses poorly: too casual for an elegant brand.",
+      "kept": "One plain sentence per treatment.",
+      "risk": "Unserious.",
+      "hero": "https://impeccable.style/worlds/cards/hand-drawn-zine-explainer-hero.webp"
+    },
+    {
+      "id": "challenger-wuxia",
+      "label": "Painted Hoarding",
+      "verdict": "declined",
+      "lineage": "wuxia film hoarding",
+      "thesis": "A single held moment, painted.",
+      "palette": ["#C0392B", "#E9E4DA", "#C9A24A"],
+      "materials": ["ink wash", "brush title"],
+      "viewport": "A leaping figure with a vertical title.",
+      "case": "Fuses poorly: foreign to the culture and to the subject.",
+      "kept": "One card owns each viewport.",
+      "risk": "Costume.",
+      "hero": "https://impeccable.style/worlds/cards/posters-covers-sleeves-wuxia-painted-hoarding-hero.webp"
+    },
+    {
+      "id": "challenger-coil",
+      "label": "Coiled Tower",
+      "verdict": "declined",
+      "lineage": "coiled earthen tower",
+      "thesis": "A slow ascending record.",
+      "palette": ["#B5653A", "#5A3A28", "#EFE6DA"],
+      "materials": ["clay coils"],
+      "viewport": "Rising clay courses.",
+      "case": "Fuses poorly: earthy and heavy, not elegant.",
+      "kept": "Regular care shown as a dated sequence.",
+      "risk": "Rustic.",
+      "hero": "https://impeccable.style/worlds/cards/clay-ceramics-fracture-coiled-earth-tower-hero.webp"
+    }
+  ],
+  "reroll": { "registers": ["safer", "bolder"] },
+  "canon": true,
+  "canonCard": {
+    "label": "The category standard",
+    "thesis": "A design-forward dental studio site in the vein of Tend or Dentologie, executed impeccably.",
+    "palette": ["#FFFFFF", "#23303A", "#F4C9D3", "#7FB7AE"],
+    "materials": ["soft white grid", "rounded cards", "lifestyle photography"],
+    "viewport": "A soft hero headline, a booking button, a row of service cards and a studio photo strip.",
+    "risk": "It depends on professional photography the studio doesn't have, and it looks like everyone else."
+  },
+  "steer": true
+}

@@ -1,0 +1,47 @@
+{
+  "title": "Safer hand — Dental Flower Studio",
+  "question": "The familiar end of the spectrum: three grounded directions and the category standard. Pick one, steer, or re-roll.",
+  "options": [
+    {
+      "id": "florist",
+      "label": "The Florist's Studio",
+      "lineage": "boutique flower studios: tissue wrap, a hand-tied ribbon, a handwritten tag",
+      "thesis": "The visit is arranged for you the way a florist ties a bouquet: chosen, wrapped and named.",
+      "palette": ["#F3D3D8", "#1F3B2D", "#C23B5F", "#FFFFFF", "#1B1B1B"],
+      "materials": ["blush tissue", "stem-green ink", "ribbon rose", "white florist tag"],
+      "viewport": "A blush tissue field with a large studio wordmark, a white florist tag with the owner's welcome line, and a ribbon-red 'Запиши час' button.",
+      "risk": "This is where most beauty-studio sites land; it stays distinct only if the green carries real weight and the tag voice is personal."
+    },
+    {
+      "id": "flowermark",
+      "label": "The Flower Mark",
+      "lineage": "Swiss modernist pharmaceutical posters (Geigy-style grid and a single mark)",
+      "thesis": "One geometric flower mark and a strict grid: precise care, rendered calmly.",
+      "palette": ["#D94A6E", "#FFFFFF", "#141414", "#F6C9D4"],
+      "materials": ["flat rose field", "white grid", "single geometric flower"],
+      "viewport": "The top half is a rose-colour field holding a giant five-petal mark; the bottom half is a white grid with the headline, a short intro and the booking action.",
+      "risk": "Clean and confident, but it can read corporate if the owner's voice doesn't come through in the copy."
+    },
+    {
+      "id": "chart",
+      "label": "Your Smile, Charted",
+      "lineage": "the dental chart (odontogram) and a written treatment plan",
+      "thesis": "The individual treatment plan made visible: a calm, beautiful chart of 32 teeth as the page's signature.",
+      "palette": ["#FFFFFF", "#2E4BA8", "#D6456F", "#E9EBEF", "#151821"],
+      "materials": ["FDI tooth chart", "plan sheet with numbered steps", "rose plan marks"],
+      "viewport": "The headline sits beside a large, finely drawn tooth chart with a few rose marks, captioned 'Всеки план е индивидуален'.",
+      "risk": "It is the most clinical of the three; it needs warm copy and the rose accent so it doesn't feel like a medical form."
+    }
+  ],
+  "reroll": { "registers": ["safer", "bolder"] },
+  "canon": true,
+  "canonCard": {
+    "label": "The category standard",
+    "thesis": "A design-forward dental studio site in the vein of Tend or Dentologie, executed impeccably.",
+    "palette": ["#FFFFFF", "#23303A", "#F4C9D3", "#7FB7AE"],
+    "materials": ["soft white grid", "rounded cards", "lifestyle photography"],
+    "viewport": "A soft hero headline, a booking button, a row of service cards and a studio photo strip.",
+    "risk": "It depends on professional photography the studio doesn't have, and it looks like everyone else."
+  },
+  "steer": true
+}

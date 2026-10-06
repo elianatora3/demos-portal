@@ -1,0 +1,147 @@
+- generic [active] [ref=f1e1]:
+  - banner [ref=f1e2]:
+    - link "Dental Flower Studio — начало" [ref=f1e3] [cursor=pointer]:
+      - /url: "#top"
+    - navigation "Основна навигация" [ref=f1e6]:
+      - list [ref=f1e7]:
+        - listitem [ref=f1e8]:
+          - link "Студиото" [ref=f1e9] [cursor=pointer]:
+            - /url: "#pismo"
+        - listitem [ref=f1e10]:
+          - link "Грижи и цени" [ref=f1e11] [cursor=pointer]:
+            - /url: "#grizhi"
+        - listitem [ref=f1e12]:
+          - link "Как работим" [ref=f1e13] [cursor=pointer]:
+            - /url: "#plan"
+        - listitem [ref=f1e14]:
+          - link "Контакт" [ref=f1e15] [cursor=pointer]:
+            - /url: "#kontakt"
+    - link "Запиши час" [ref=f1e16] [cursor=pointer]:
+      - /url: "#kontakt"
+  - main [ref=f1e17]:
+    - region [ref=f1e18]:
+      - generic [ref=f1e19]:
+        - article [ref=f1e22]:
+          - paragraph [ref=f1e25]: Д-р Ц. Нейчева
+          - heading "Dental Flower Studio — дентално студио" [level=1] [ref=f1e26]:
+            - text: Dental Flower Studio
+            - generic [ref=f1e27]: — дентално студио
+          - paragraph [ref=f1e28]: ви кани на първа консултация
+          - paragraph [ref=f1e29]: Красотата на усмивката и нейното здраве изискват редовни грижи и внимание.
+        - complementary "Запишете час" [ref=f1e31]:
+          - paragraph [ref=f1e32]: Моля, отговорете
+          - paragraph [ref=f1e33]: "Първата среща е разговор: преглед, вашите въпроси и план, направен за вас."
+          - link "Запиши час" [ref=f1e34] [cursor=pointer]:
+            - /url: "#kontakt"
+    - region [ref=f1e35]:
+      - article [ref=f1e36]:
+        - heading "Усмивка, която е и красива, и здрава" [level=2] [ref=f1e39]
+        - paragraph [ref=f1e40]: Красотата на усмивката и нейното здраве изискват редовни грижи и внимание.
+        - paragraph [ref=f1e41]: Като специалисти в областта на стоматологията, в денталното студио ще отговорим на всички ваши въпроси, свързани със здравето на вашите зъби.
+        - paragraph [ref=f1e42]: За да получите най-подходящото лечение и отношение, ще изготвим план на лечение, който максимално да отговаря на съвременните изисквания за естетика и функция.
+        - generic [ref=f1e43]:
+          - paragraph [ref=f1e44]: С грижа,
+          - paragraph [ref=f1e45]: Д-р Ц. Нейчева
+          - paragraph [ref=f1e46]: Dental Flower Studio
+    - region [ref=f1e47]:
+      - article [ref=f1e48]:
+        - generic [ref=f1e49]:
+          - heading "Грижи и цени" [level=2] [ref=f1e52]
+          - paragraph [ref=f1e53]: Всяко лечение започва с преглед и план, съобразен с вас.
+        - list [ref=f1e54]:
+          - listitem [ref=f1e55]:
+            - group [ref=f1e56]:
+              - generic "Профилактичен преглед и почистване цена — предстои € Преглед, почистване на зъбен камък и полиране — основата на всяка здрава усмивка." [ref=f1e57] [cursor=pointer]:
+                - generic [ref=f1e58]: Профилактичен преглед и почистване
+                - generic [ref=f1e59]:
+                  - generic [ref=f1e60]: цена — предстои
+                  - text: €
+                - generic [ref=f1e62]: Преглед, почистване на зъбен камък и полиране — основата на всяка здрава усмивка.
+          - listitem [ref=f1e63]:
+            - group [ref=f1e64]:
+              - generic "Лечение на кариес цена — предстои € Почистване на засегнатия зъб и възстановяване с материал в цвета на зъба." [ref=f1e65] [cursor=pointer]:
+                - generic [ref=f1e66]: Лечение на кариес
+                - generic [ref=f1e67]:
+                  - generic [ref=f1e68]: цена — предстои
+                  - text: €
+                - generic [ref=f1e70]: Почистване на засегнатия зъб и възстановяване с материал в цвета на зъба.
+          - listitem [ref=f1e71]:
+            - group [ref=f1e72]:
+              - generic "Ендодонтско лечение цена — предстои € Лечение на канала, когато нервът е възпален — за да запазим собствения ви зъб." [ref=f1e73] [cursor=pointer]:
+                - generic [ref=f1e74]: Ендодонтско лечение
+                - generic [ref=f1e75]:
+                  - generic [ref=f1e76]: цена — предстои
+                  - text: €
+                - generic [ref=f1e78]: Лечение на канала, когато нервът е възпален — за да запазим собствения ви зъб.
+          - listitem [ref=f1e79]:
+            - group [ref=f1e80]:
+              - generic "Професионално избелване цена — предстои € По-светъл цвят на зъбите, постигнат безопасно и под наблюдение." [ref=f1e81] [cursor=pointer]:
+                - generic [ref=f1e82]: Професионално избелване
+                - generic [ref=f1e83]:
+                  - generic [ref=f1e84]: цена — предстои
+                  - text: €
+                - generic [ref=f1e86]: По-светъл цвят на зъбите, постигнат безопасно и под наблюдение.
+          - listitem [ref=f1e87]:
+            - group [ref=f1e88]:
+              - generic "Естетични фасети цена — предстои € Тънки облицовки, които променят формата и цвета на предните зъби." [ref=f1e89] [cursor=pointer]:
+                - generic [ref=f1e90]: Естетични фасети
+                - generic [ref=f1e91]:
+                  - generic [ref=f1e92]: цена — предстои
+                  - text: €
+                - generic [ref=f1e94]: Тънки облицовки, които променят формата и цвета на предните зъби.
+          - listitem [ref=f1e95]:
+            - group [ref=f1e96]:
+              - generic "Коронки и мостове цена — предстои € Възстановяват вида и функцията на увредени или липсващи зъби." [ref=f1e97] [cursor=pointer]:
+                - generic [ref=f1e98]: Коронки и мостове
+                - generic [ref=f1e99]:
+                  - generic [ref=f1e100]: цена — предстои
+                  - text: €
+                - generic [ref=f1e102]: Възстановяват вида и функцията на увредени или липсващи зъби.
+    - region [ref=f1e103]:
+      - generic [ref=f1e104]:
+        - heading "Как работим" [level=2] [ref=f1e105]
+        - paragraph [ref=f1e106]: Четири срещи, всяка записана като ваша.
+      - list [ref=f1e107]:
+        - listitem [ref=f1e108]:
+          - generic [aria-hidden] [ref=f1e109]: "1"
+          - heading "Консултация" [level=3] [ref=f1e110]
+          - paragraph [ref=f1e111]: Отговаряме на всички ваши въпроси, свързани със здравето на зъбите ви.
+          - paragraph [ref=f1e112]: Дата
+        - listitem [ref=f1e114]:
+          - generic [aria-hidden] [ref=f1e115]: "2"
+          - heading "План на лечение" [level=3] [ref=f1e116]
+          - paragraph [ref=f1e117]: Изготвяме план, който отговаря на съвременните изисквания за естетика и функция.
+          - paragraph [ref=f1e118]: Дата
+        - listitem [ref=f1e120]:
+          - generic [aria-hidden] [ref=f1e121]: "3"
+          - heading "Лечение" [level=3] [ref=f1e122]
+          - paragraph [ref=f1e123]: Следваме плана стъпка по стъпка и знаете какво предстои на всяко посещение.
+          - paragraph [ref=f1e124]: Дата
+        - listitem [ref=f1e126]:
+          - generic [aria-hidden] [ref=f1e127]: "4"
+          - heading "Редовна грижа" [level=3] [ref=f1e128]
+          - paragraph [ref=f1e129]: Красотата и здравето на усмивката изискват редовни грижи и внимание.
+          - paragraph [ref=f1e130]: Дата
+    - region [ref=f1e132]:
+      - article [ref=f1e133]:
+        - heading "Запишете час" [level=2] [ref=f1e134]
+        - paragraph [ref=f1e135]: Обадете се и ще намерим удобен за вас час за първата консултация.
+        - generic [ref=f1e136]:
+          - generic [ref=f1e137]:
+            - term [ref=f1e138]: Телефон
+            - definition [ref=f1e139]:
+              - generic [ref=f1e140]: предстои
+          - generic [ref=f1e142]:
+            - term [ref=f1e143]: Адрес
+            - definition [ref=f1e144]:
+              - generic [ref=f1e145]: предстои
+          - generic [ref=f1e147]:
+            - term [ref=f1e148]: Работно време
+            - definition [ref=f1e149]:
+              - generic [ref=f1e150]: предстои
+        - link "Обадете се" [ref=f1e152] [cursor=pointer]:
+          - /url: "tel:"
+  - contentinfo [ref=f1e153]:
+    - paragraph [ref=f1e158]: Д-р Ц. Нейчева
+    - paragraph [ref=f1e159]: Dental Flower Studio
+    - paragraph [ref=f1e160]: © 2026 · дентално студио

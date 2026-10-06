@@ -1,0 +1,167 @@
+- generic [active] [ref=f19e1]:
+  - link "Към резултатите" [ref=f19e2] [cursor=pointer]:
+    - /url: "#rezultati"
+  - banner [ref=f19e3]:
+    - link "Dental Flower Studio, начало" [ref=f19e4] [cursor=pointer]:
+      - /url: "#top"
+      - generic [ref=f19e7]:
+        - generic [ref=f19e8]: Д-р Ц. Нейчева
+        - generic [ref=f19e9]: Dental Flower Studio
+  - main [ref=f19e10]:
+    - region [ref=f19e11]:
+      - generic [ref=f19e12]:
+        - heading [level=1] [ref=f19e13]:
+          - text: Нова усмивка.
+          - emphasis [ref=f19e14]: Същата вие.
+        - paragraph [ref=f19e15]: Естетична и обща дентална медицина в Dental Flower Studio. Д-р Ц. Нейчева изготвя за всеки пациент план на лечение, който отговаря на съвременните изисквания за естетика и функция.
+        - link "Вижте още резултати" [ref=f19e16] [cursor=pointer]:
+          - /url: "#rezultati"
+      - figure "Пациентка на д-р Нейчева. Снимките са публикувани с нейно писмено съгласие." [ref=f19e17]:
+        - generic [ref=f19e18]:
+          - 'img "Пациентка след лечение: равна, светла усмивка с възстановени предни зъби." [ref=f19e19]'
+          - generic [ref=f19e20]: След
+        - generic [ref=f19e21]:
+          - 'img "Същата пациентка преди лечение: липсващ преден зъб и потъмнели зъби." [ref=f19e22]'
+          - generic [ref=f19e23]: Преди
+    - region [ref=f19e25]:
+      - generic [ref=f19e26]:
+        - heading "Резултати" [level=2] [ref=f19e27]
+        - paragraph [ref=f19e28]: Истински пациенти, снимани в студиото преди и след лечение. Всяка снимка е публикувана с писмено съгласие.
+      - generic [ref=f19e29]:
+        - 'figure "Лечение: —" [ref=f19e30]':
+          - generic [ref=f19e31]:
+            - 'link "Пациентка преди лечение: липсващ горен преден зъб и неравни зъби. Преди" [ref=f19e32]':
+              - /url: assets/cases/case-2-before.jpg
+              - 'img "Пациентка преди лечение: липсващ горен преден зъб и неравни зъби." [ref=f19e33]'
+              - generic [ref=f19e34]: Преди
+            - 'link "Същата пациентка след лечение: пълна, равна усмивка. След" [ref=f19e35]':
+              - /url: assets/cases/case-2-after.jpg
+              - 'img "Същата пациентка след лечение: пълна, равна усмивка." [ref=f19e36]'
+              - generic [ref=f19e37]: След
+        - 'figure "Лечение: —" [ref=f19e39]':
+          - generic [ref=f19e40]:
+            - 'link "Пациентка преди лечение: липсващи и потъмнели предни зъби. Преди" [ref=f19e41]':
+              - /url: assets/cases/case-3-before.jpg
+              - 'img "Пациентка преди лечение: липсващи и потъмнели предни зъби." [ref=f19e42]'
+              - generic [ref=f19e43]: Преди
+            - 'link "Същата пациентка след лечение: светли, възстановени зъби. След" [ref=f19e44]':
+              - /url: assets/cases/case-3-after.jpg
+              - 'img "Същата пациентка след лечение: светли, възстановени зъби." [ref=f19e45]'
+              - generic [ref=f19e46]: След
+        - 'figure "Лечение: —" [ref=f19e48]':
+          - generic [ref=f19e49]:
+            - 'link "Пациентка преди лечение: липсващ преден зъб. Преди" [ref=f19e50]':
+              - /url: assets/cases/case-4-before.jpg
+              - 'img "Пациентка преди лечение: липсващ преден зъб." [ref=f19e51]'
+              - generic [ref=f19e52]: Преди
+            - 'link "Същата пациентка след лечение: естествено изглеждаща, равна усмивка. След" [ref=f19e53]':
+              - /url: assets/cases/case-4-after.jpg
+              - 'img "Същата пациентка след лечение: естествено изглеждаща, равна усмивка." [ref=f19e54]'
+              - generic [ref=f19e55]: След
+    - region [ref=f19e57]:
+      - generic [ref=f19e58]:
+        - heading "Красота и здраве, в един план" [level=2] [ref=f19e59]
+        - paragraph [ref=f19e60]: Красотата на усмивката и нейното здраве изискват редовни грижи и внимание. Като специалисти в областта на стоматологията, в денталното студио ще отговорим на всички ваши въпроси, свързани със здравето на вашите зъби.
+      - list [ref=f19e61]:
+        - listitem [ref=f19e62]:
+          - heading "Консултация" [level=3] [ref=f19e63]
+          - paragraph [ref=f19e64]: Преглед и разговор. Отговаряме на всеки въпрос за здравето на зъбите ви.
+        - listitem [ref=f19e65]:
+          - heading "План на лечение" [level=3] [ref=f19e66]
+          - paragraph [ref=f19e67]: Изготвяме план, който максимално да отговаря на съвременните изисквания за естетика и функция.
+        - listitem [ref=f19e68]:
+          - heading "Лечение и грижа" [level=3] [ref=f19e69]
+          - paragraph [ref=f19e70]: Следваме плана стъпка по стъпка, а след това ви помагаме да запазите резултата с редовни прегледи.
+    - region [ref=f19e71]:
+      - generic [ref=f19e72]:
+        - heading "Услуги и цени" [level=2] [ref=f19e73]
+        - paragraph [ref=f19e74]: Всяко лечение започва с консултация и план, направен за вас.
+      - list [ref=f19e75]:
+        - listitem [ref=f19e76]:
+          - generic [ref=f19e77]:
+            - heading "Консултация и план на лечение" [level=3] [ref=f19e78]
+            - paragraph [ref=f19e79]: Преглед, разговор и писмен план с етапите на лечението.
+          - generic [ref=f19e80]: — €
+        - listitem [ref=f19e81]:
+          - generic [ref=f19e82]:
+            - heading "Профилактика и почистване" [level=3] [ref=f19e83]
+            - paragraph [ref=f19e84]: Почистване на зъбен камък и полиране за здрави венци и зъби.
+          - generic [ref=f19e85]: — €
+        - listitem [ref=f19e86]:
+          - generic [ref=f19e87]:
+            - heading "Лечение на кариес" [level=3] [ref=f19e88]
+            - paragraph [ref=f19e89]: Възстановяване с материал в цвета на собствения ви зъб.
+          - generic [ref=f19e90]: — €
+        - listitem [ref=f19e91]:
+          - generic [ref=f19e92]:
+            - heading "Ендодонтско лечение" [level=3] [ref=f19e93]
+            - paragraph [ref=f19e94]: Лечение на канала, за да запазим собствения ви зъб.
+          - generic [ref=f19e95]: — €
+        - listitem [ref=f19e96]:
+          - generic [ref=f19e97]:
+            - heading "Коронки и мостове" [level=3] [ref=f19e98]
+            - paragraph [ref=f19e99]: Възстановяват вида и функцията на увредени или липсващи зъби.
+          - generic [ref=f19e100]: — €
+        - listitem [ref=f19e101]:
+          - generic [ref=f19e102]:
+            - heading "Естетични фасети" [level=3] [ref=f19e103]
+            - paragraph [ref=f19e104]: Тънки облицовки, които променят формата и цвета на предните зъби.
+          - generic [ref=f19e105]: — €
+        - listitem [ref=f19e106]:
+          - generic [ref=f19e107]:
+            - heading "Професионално избелване" [level=3] [ref=f19e108]
+            - paragraph [ref=f19e109]: По-светъл цвят на зъбите, постигнат безопасно и под наблюдение.
+          - generic [ref=f19e110]: — €
+    - region [ref=f19e111]:
+      - img "Снимка на д-р Нейчева, предстои" [ref=f19e112]:
+        - generic [ref=f19e113]: Снимка на д-р Нейчева
+      - generic [ref=f19e114]:
+        - heading "Д-р Ц. Нейчева" [level=2] [ref=f19e115]
+        - paragraph [ref=f19e116]: Лекар по дентална медицина · Dental Flower Studio
+        - blockquote [ref=f19e117]:
+          - paragraph [ref=f19e118]: „За да получите най-подходящото лечение и отношение, ще изготвим план на лечение, който максимално да отговаря на съвременните изисквания за естетика и функция.“
+        - link "Запишете консултация" [ref=f19e119] [cursor=pointer]:
+          - /url: "#kontakt"
+    - region [ref=f19e120]:
+      - generic [ref=f19e121]:
+        - heading "Запишете час" [level=2] [ref=f19e124]
+        - paragraph [ref=f19e125]: Пишете на д-р Нейчева във Viber или WhatsApp и ще уговорим удобен за вас час.
+        - generic [ref=f19e126]:
+          - link "Viber" [ref=f19e127] [cursor=pointer]:
+            - /url: viber://chat?number=%2B359PHONE
+          - link "WhatsApp" [ref=f19e130] [cursor=pointer]:
+            - /url: https://wa.me/359PHONE
+        - generic [ref=f19e133]:
+          - generic [ref=f19e134]:
+            - term [ref=f19e135]: Телефон
+            - definition [ref=f19e136]: —
+          - generic [ref=f19e137]:
+            - term [ref=f19e138]: Адрес
+            - definition [ref=f19e139]: —
+          - generic [ref=f19e140]:
+            - term [ref=f19e141]: Работно време
+            - definition [ref=f19e142]: —
+  - contentinfo [ref=f19e143]:
+    - generic [ref=f19e144]:
+      - paragraph [ref=f19e147]: Д-р Ц. Нейчева
+      - paragraph [ref=f19e148]: Dental Flower Studio
+    - navigation "Долна навигация" [ref=f19e149]:
+      - list [ref=f19e150]:
+        - listitem [ref=f19e151]:
+          - link "Резултати" [ref=f19e152] [cursor=pointer]:
+            - /url: "#rezultati"
+        - listitem [ref=f19e153]:
+          - link "Услуги и цени" [ref=f19e154] [cursor=pointer]:
+            - /url: "#uslugi"
+        - listitem [ref=f19e155]:
+          - link "Контакт" [ref=f19e156] [cursor=pointer]:
+            - /url: "#kontakt"
+        - listitem [ref=f19e157]:
+          - link "Политика за поверителност" [ref=f19e158] [cursor=pointer]:
+            - /url: "#top"
+    - paragraph [ref=f19e159]: © 2026 Dental Flower Studio
+  - generic "Бърза връзка" [ref=f19e160]:
+    - link "Viber" [ref=f19e161] [cursor=pointer]:
+      - /url: viber://chat?number=%2B359PHONE
+    - link "WhatsApp" [ref=f19e164] [cursor=pointer]:
+      - /url: https://wa.me/359PHONE

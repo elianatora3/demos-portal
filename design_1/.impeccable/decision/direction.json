@@ -1,0 +1,101 @@
+{
+  "title": "Choose the visual world — Dental Flower Studio",
+  "question": "The roll assigned The Herbarium Sheet. Keep it, take an alternate, or re-roll.",
+  "options": [
+    {
+      "id": "assigned",
+      "label": "The Herbarium Sheet",
+      "kicker": "THE ROLL",
+      "lineage": "botanical herbarium specimen sheets and their collection labels",
+      "thesis": "Every smile is a specimen cared for individually: pressed, labelled, documented, its own plan.",
+      "palette": ["#6E1F3C", "#FBFAF7", "#1E1A1D", "#2F3F8F", "#E9A7B9"],
+      "materials": ["mounted specimen sheet", "gummed collection label", "rubber-stamp ink", "real pressed Rosa damascena scan"],
+      "viewport": "A white specimen sheet laid on a deep pressed-rose folder: a real Rosa damascena herbarium scan, with the studio name set as the collection label in the corner and a stamped 'Запиши час' as the action.",
+      "risk": "Can tip into museum-cold if the labels are set timidly; warmth has to come from the owner's voice and the rose field.",
+      "raised": [
+        { "from": "design-canon-blast-manifesto-page", "raise": "With phone photos only, type carries whole sections at specimen-label scale, and there are no stock smiles anywhere." },
+        { "from": "textiles-weave-drape-fashion-sneaker-box-stacks", "raise": "Each treatment is named like a specimen and gets a plain spec line (visits, time, price), so naming never hides the facts." },
+        { "from": "pop-culture-shelf-window-box-toy-shelf", "raise": "The label is the summary and the detail unfolds in place (native <details>, no JS)." },
+        { "from": "operate-c-cracktro-scroller-queue", "raise": "Sections are sheets laid on the folder, never cards in a grid." },
+        { "from": "signals-instruments-phosphor-terminal-midnight", "raise": "One type family across labels, body and stamps; hierarchy comes from case, size and ink." }
+      ]
+    },
+    {
+      "id": "model-pick",
+      "label": "Kazanlak Rose Apothecary",
+      "kicker": "IMPECCABLE’S PICK",
+      "lineage": "Bulgarian rose-oil and rose-water packaging",
+      "thesis": "The studio as a Bulgarian rose apothecary, with each treatment a labelled bottle on the shelf.",
+      "palette": ["#B0204F", "#F4D8DF", "#C9A24A", "#2A1A20"],
+      "materials": ["gold-foil label", "rose-madder carton", "engraved rose border"],
+      "viewport": "A rose-madder carton front with a gold-foil studio crest and the plan described as a prescription label.",
+      "risk": "It is the most familiar Bulgarian rose reading, close to the souvenir-shop cosmetics every tourist knows."
+    },
+    {
+      "id": "challenger-provenance",
+      "label": "The Treatment Ribbon",
+      "verdict": "competitive",
+      "lineage": "museum provenance ribbons",
+      "thesis": "One continuous ribbon traces your treatment from the first consultation, through the plan, to regular care.",
+      "palette": ["#C7254E", "#F6F1EE", "#2A2426", "#9A9396"],
+      "materials": ["silk ribbon line", "dated small caps", "hairline for the steps still to come"],
+      "viewport": "A single rose ribbon runs down the page with the dated plan steps knotted along it.",
+      "case": "It dramatises the individual plan clearly, but patients identify less with a timeline than with care and beauty.",
+      "risk": "Ledger serifs on buff paper slide straight into the cream-editorial default.",
+      "hero": "https://impeccable.style/worlds/cards/exhibition-museum-curation-provenance-ribbon-hero.webp"
+    },
+    {
+      "id": "challenger-sneaker",
+      "label": "Archive Box Wall",
+      "verdict": "declined",
+      "lineage": "sneaker archive box stacks",
+      "thesis": "Treatments as stacked boxes, with their names read as poetry.",
+      "palette": ["#D9622B", "#111111", "#F7F4EF"],
+      "materials": ["box board", "end labels"],
+      "viewport": "A wall of box-end labels.",
+      "case": "Fuses poorly: it reads as retail, not care.",
+      "kept": "Poetic names sit beside plain spec lines.",
+      "risk": "Looks like a shoe shop.",
+      "hero": "https://impeccable.style/worlds/cards/textiles-weave-drape-fashion-sneaker-box-stacks-hero.webp"
+    },
+    {
+      "id": "challenger-blast",
+      "label": "Manifesto Page",
+      "verdict": "declined",
+      "lineage": "1914 wood-type manifesto",
+      "thesis": "Shouted slabs of wood type.",
+      "palette": ["#C98C9A", "#111111"],
+      "materials": ["wood type", "thick rules"],
+      "viewport": "Rotated type slabs.",
+      "case": "Fuses poorly: shouting raises dental anxiety.",
+      "kept": "Type does the work that photography cannot.",
+      "risk": "Aggressive.",
+      "hero": "https://impeccable.style/worlds/cards/design-canon-blast-manifesto-page-hero.webp"
+    },
+    {
+      "id": "challenger-toybox",
+      "label": "Window-Box Shelf",
+      "verdict": "declined",
+      "lineage": "toy-aisle window boxes",
+      "thesis": "Treatments as boxed dioramas.",
+      "palette": ["#F3E9D2", "#6BA368", "#C2416B"],
+      "materials": ["cellophane", "gingham"],
+      "viewport": "A shelf of boxes.",
+      "case": "Fuses poorly: it is child-facing, and the patients are adults.",
+      "kept": "The front is the summary and the detail opens in place.",
+      "risk": "Toy-like.",
+      "hero": "https://impeccable.style/worlds/cards/pop-culture-shelf-window-box-toy-shelf-hero.webp"
+    }
+  ],
+  "reroll": { "registers": ["safer", "bolder"] },
+  "canon": true,
+  "canonCard": {
+    "label": "The category standard",
+    "thesis": "A clean modern dental clinic site, executed impeccably.",
+    "palette": ["#FFFFFF", "#0F2A3A", "#4FB3BF", "#F2C4CE"],
+    "materials": ["white grid", "smile photography", "rounded cards"],
+    "viewport": "A smiling-patient hero with a headline, a booking button and a row of service cards.",
+    "risk": "Indistinguishable from every other clinic, and it needs professional photos the studio doesn't have."
+  },
+  "steer": true
+}

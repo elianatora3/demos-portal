@@ -1,0 +1,504 @@
+{
+  "schemaVersion": 2,
+  "generatedAt": "2026-10-05T13:13:20+00:00",
+  "title": "Design System: Dental Flower Studio",
+  "extensions": {
+    "colorMeta": {
+      "bg": {
+        "role": "neutral",
+        "displayName": "Treatment-Room White",
+        "canonical": "oklch(98.3% 0.002 67.8)",
+        "tonalRamp": [
+          "oklch(15% 0.002 67.8)",
+          "oklch(26% 0.002 67.8)",
+          "oklch(38% 0.002 67.8)",
+          "oklch(49% 0.002 67.8)",
+          "oklch(61% 0.002 67.8)",
+          "oklch(72% 0.002 67.8)",
+          "oklch(84% 0.002 67.8)",
+          "oklch(95% 0.002 67.8)"
+        ]
+      },
+      "surface": {
+        "role": "neutral",
+        "displayName": "Pure Surface",
+        "canonical": "oklch(100% 0 0)",
+        "tonalRamp": [
+          "oklch(15% 0 0)",
+          "oklch(26% 0 0)",
+          "oklch(38% 0 0)",
+          "oklch(49% 0 0)",
+          "oklch(61% 0 0)",
+          "oklch(72% 0 0)",
+          "oklch(84% 0 0)",
+          "oklch(95% 0 0)"
+        ]
+      },
+      "ink": {
+        "role": "neutral",
+        "displayName": "Logo Grey Ink",
+        "canonical": "oklch(25.7% 0.007 345.8)",
+        "tonalRamp": [
+          "oklch(15% 0.007 345.8)",
+          "oklch(26% 0.007 345.8)",
+          "oklch(38% 0.007 345.8)",
+          "oklch(49% 0.007 345.8)",
+          "oklch(61% 0.007 345.8)",
+          "oklch(72% 0.007 345.8)",
+          "oklch(84% 0.007 345.8)",
+          "oklch(95% 0.007 345.8)"
+        ]
+      },
+      "ink-2": {
+        "role": "neutral",
+        "displayName": "Soft Grey Ink",
+        "canonical": "oklch(47.3% 0.007 351)",
+        "tonalRamp": [
+          "oklch(15% 0.007 351)",
+          "oklch(26% 0.007 351)",
+          "oklch(38% 0.007 351)",
+          "oklch(49% 0.007 351)",
+          "oklch(61% 0.007 351)",
+          "oklch(72% 0.007 351)",
+          "oklch(84% 0.007 351)",
+          "oklch(95% 0.007 351)"
+        ]
+      },
+      "line": {
+        "role": "neutral",
+        "displayName": "Hairline",
+        "canonical": "oklch(91.2% 0.007 354.8)",
+        "tonalRamp": [
+          "oklch(15% 0.007 354.8)",
+          "oklch(26% 0.007 354.8)",
+          "oklch(38% 0.007 354.8)",
+          "oklch(49% 0.007 354.8)",
+          "oklch(61% 0.007 354.8)",
+          "oklch(72% 0.007 354.8)",
+          "oklch(84% 0.007 354.8)",
+          "oklch(95% 0.007 354.8)"
+        ]
+      },
+      "rose": {
+        "role": "primary",
+        "displayName": "Studio Rose",
+        "canonical": "oklch(51.4% 0.134 3.6)",
+        "tonalRamp": [
+          "oklch(15% 0.134 3.6)",
+          "oklch(26% 0.134 3.6)",
+          "oklch(38% 0.134 3.6)",
+          "oklch(49% 0.134 3.6)",
+          "oklch(61% 0.134 3.6)",
+          "oklch(72% 0.134 3.6)",
+          "oklch(84% 0.134 3.6)",
+          "oklch(95% 0.134 3.6)"
+        ]
+      },
+      "rose-deep": {
+        "role": "primary",
+        "displayName": "Deep Rose",
+        "canonical": "oklch(44.1% 0.12 3.2)",
+        "tonalRamp": [
+          "oklch(15% 0.12 3.2)",
+          "oklch(26% 0.12 3.2)",
+          "oklch(38% 0.12 3.2)",
+          "oklch(49% 0.12 3.2)",
+          "oklch(61% 0.12 3.2)",
+          "oklch(72% 0.12 3.2)",
+          "oklch(84% 0.12 3.2)",
+          "oklch(95% 0.12 3.2)"
+        ]
+      },
+      "rose-soft": {
+        "role": "primary",
+        "displayName": "Blush",
+        "canonical": "oklch(94.9% 0.011 357)",
+        "tonalRamp": [
+          "oklch(15% 0.011 357)",
+          "oklch(26% 0.011 357)",
+          "oklch(38% 0.011 357)",
+          "oklch(49% 0.011 357)",
+          "oklch(61% 0.011 357)",
+          "oklch(72% 0.011 357)",
+          "oklch(84% 0.011 357)",
+          "oklch(95% 0.011 357)"
+        ]
+      },
+      "night": {
+        "role": "neutral",
+        "displayName": "Night Rose",
+        "canonical": "oklch(26% 0.015 349.7)",
+        "tonalRamp": [
+          "oklch(15% 0.015 349.7)",
+          "oklch(26% 0.015 349.7)",
+          "oklch(38% 0.015 349.7)",
+          "oklch(49% 0.015 349.7)",
+          "oklch(61% 0.015 349.7)",
+          "oklch(72% 0.015 349.7)",
+          "oklch(84% 0.015 349.7)",
+          "oklch(95% 0.015 349.7)"
+        ]
+      },
+      "night-2": {
+        "role": "neutral",
+        "displayName": "Night Well",
+        "canonical": "oklch(31.9% 0.018 349)",
+        "tonalRamp": [
+          "oklch(15% 0.018 349)",
+          "oklch(26% 0.018 349)",
+          "oklch(38% 0.018 349)",
+          "oklch(49% 0.018 349)",
+          "oklch(61% 0.018 349)",
+          "oklch(72% 0.018 349)",
+          "oklch(84% 0.018 349)",
+          "oklch(95% 0.018 349)"
+        ]
+      },
+      "night-ink": {
+        "role": "neutral",
+        "displayName": "Night Ink",
+        "canonical": "oklch(95.2% 0.008 357.8)",
+        "tonalRamp": [
+          "oklch(15% 0.008 357.8)",
+          "oklch(26% 0.008 357.8)",
+          "oklch(38% 0.008 357.8)",
+          "oklch(49% 0.008 357.8)",
+          "oklch(61% 0.008 357.8)",
+          "oklch(72% 0.008 357.8)",
+          "oklch(84% 0.008 357.8)",
+          "oklch(95% 0.008 357.8)"
+        ]
+      },
+      "night-mute": {
+        "role": "neutral",
+        "displayName": "Night Mute",
+        "canonical": "oklch(78.7% 0.019 351.3)",
+        "tonalRamp": [
+          "oklch(15% 0.019 351.3)",
+          "oklch(26% 0.019 351.3)",
+          "oklch(38% 0.019 351.3)",
+          "oklch(49% 0.019 351.3)",
+          "oklch(61% 0.019 351.3)",
+          "oklch(72% 0.019 351.3)",
+          "oklch(84% 0.019 351.3)",
+          "oklch(95% 0.019 351.3)"
+        ]
+      },
+      "viber": {
+        "role": "channel",
+        "displayName": "Viber Violet",
+        "canonical": "oklch(52.2% 0.123 287.1)",
+        "tonalRamp": [
+          "oklch(15% 0.123 287.1)",
+          "oklch(26% 0.123 287.1)",
+          "oklch(38% 0.123 287.1)",
+          "oklch(49% 0.123 287.1)",
+          "oklch(61% 0.123 287.1)",
+          "oklch(72% 0.123 287.1)",
+          "oklch(84% 0.123 287.1)",
+          "oklch(95% 0.123 287.1)"
+        ]
+      },
+      "viber-deep": {
+        "role": "channel",
+        "displayName": "Viber Violet Deep",
+        "canonical": "oklch(46.2% 0.121 286.6)",
+        "tonalRamp": [
+          "oklch(15% 0.121 286.6)",
+          "oklch(26% 0.121 286.6)",
+          "oklch(38% 0.121 286.6)",
+          "oklch(49% 0.121 286.6)",
+          "oklch(61% 0.121 286.6)",
+          "oklch(72% 0.121 286.6)",
+          "oklch(84% 0.121 286.6)",
+          "oklch(95% 0.121 286.6)"
+        ]
+      },
+      "wa": {
+        "role": "channel",
+        "displayName": "WhatsApp Teal",
+        "canonical": "oklch(52.2% 0.09 182.7)",
+        "tonalRamp": [
+          "oklch(15% 0.09 182.7)",
+          "oklch(26% 0.09 182.7)",
+          "oklch(38% 0.09 182.7)",
+          "oklch(49% 0.09 182.7)",
+          "oklch(61% 0.09 182.7)",
+          "oklch(72% 0.09 182.7)",
+          "oklch(84% 0.09 182.7)",
+          "oklch(95% 0.09 182.7)"
+        ]
+      },
+      "wa-deep": {
+        "role": "channel",
+        "displayName": "WhatsApp Teal Deep",
+        "canonical": "oklch(46% 0.079 183)",
+        "tonalRamp": [
+          "oklch(15% 0.079 183)",
+          "oklch(26% 0.079 183)",
+          "oklch(38% 0.079 183)",
+          "oklch(49% 0.079 183)",
+          "oklch(61% 0.079 183)",
+          "oklch(72% 0.079 183)",
+          "oklch(84% 0.079 183)",
+          "oklch(95% 0.079 183)"
+        ]
+      }
+    },
+    "typographyMeta": {
+      "display": {
+        "displayName": "Display",
+        "purpose": "Hero headline only; second line in rose."
+      },
+      "headline": {
+        "displayName": "Headline",
+        "purpose": "Section headings."
+      },
+      "quote": {
+        "displayName": "Quote",
+        "purpose": "The doctor's quotation, with rose Bulgarian quote marks."
+      },
+      "title": {
+        "displayName": "Title",
+        "purpose": "Process step names."
+      },
+      "title-sm": {
+        "displayName": "Title small",
+        "purpose": "Service names in the price list."
+      },
+      "lead": {
+        "displayName": "Lead",
+        "purpose": "Hero introduction."
+      },
+      "body": {
+        "displayName": "Body",
+        "purpose": "All reading text, 38-46ch."
+      },
+      "button": {
+        "displayName": "Button",
+        "purpose": "Button labels only."
+      },
+      "label": {
+        "displayName": "Label",
+        "purpose": "Uppercase wide-tracked tags and fact labels."
+      },
+      "price": {
+        "displayName": "Price",
+        "purpose": "Tabular service prices."
+      }
+    },
+    "shadows": [
+      {
+        "name": "button-rest",
+        "value": "0 1px 2px rgb(38 34 36 / .12), 0 8px 18px -10px rgb(38 34 36 / .45)",
+        "purpose": "Every button at rest."
+      },
+      {
+        "name": "button-lift",
+        "value": "0 2px 4px rgb(38 34 36 / .12), 0 14px 26px -12px rgb(38 34 36 / .5)",
+        "purpose": "Button hover with a 2px rise."
+      },
+      {
+        "name": "print",
+        "value": "0 30px 60px -30px rgb(38 34 36 / .45)",
+        "purpose": "Large hero after photograph."
+      },
+      {
+        "name": "inset-print",
+        "value": "0 2px 6px rgb(38 34 36 / .12), 0 24px 44px -18px rgb(38 34 36 / .5)",
+        "purpose": "Overlapping hero before photograph in a 6px white mount."
+      },
+      {
+        "name": "card",
+        "value": "0 1px 2px rgb(38 34 36 / .06), 0 30px 70px -40px rgb(38 34 36 / .45)",
+        "purpose": "The contact card."
+      }
+    ],
+    "motion": [
+      {
+        "name": "ease",
+        "value": "cubic-bezier(.16, 1, .3, 1)",
+        "purpose": "All eased motion."
+      },
+      {
+        "name": "button-lift",
+        "value": "transform .3s, box-shadow .3s, background-color .25s",
+        "purpose": "Button hover."
+      },
+      {
+        "name": "hero-wipe",
+        "value": "clip-path inset(0 100% 0 0) to inset(0), 1.5s, .25s delay, once",
+        "purpose": "Hero after photo reveal on load."
+      },
+      {
+        "name": "hero-settle",
+        "value": "translate 0 1.5rem to 0, 1.2s, once",
+        "purpose": "Hero before inset settles on load."
+      },
+      {
+        "name": "case-zoom",
+        "value": "transform scale(1.55), .9s, origin 50% 58%",
+        "purpose": "Case photo hover zoom toward the mouth."
+      },
+      {
+        "name": "reduced-motion",
+        "value": "animation and transition none",
+        "purpose": "prefers-reduced-motion: reduce."
+      }
+    ],
+    "breakpoints": [
+      {
+        "name": "nav-collapse",
+        "value": "1060px"
+      },
+      {
+        "name": "single-column",
+        "value": "860px"
+      },
+      {
+        "name": "mobile-dock",
+        "value": "760px"
+      },
+      {
+        "name": "narrow",
+        "value": "420px"
+      }
+    ]
+  },
+  "components": [
+    {
+      "name": "Viber Button",
+      "kind": "button",
+      "refersTo": "button-viber",
+      "description": "Primary booking channel; always paired with WhatsApp, Viber first. Real build uses the Viber brand icon.",
+      "html": "<a class=\"ds-btn ds-btn-viber\" href=\"#\"><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><circle cx=\"12\" cy=\"12\" r=\"9\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\"/></svg>Пишете във Viber</a>",
+      "css": ".ds-btn{display:inline-flex;align-items:center;justify-content:center;gap:.6rem;min-height:3.25rem;padding:0 1.5rem;border:0;border-radius:999px;font:500 .97rem/1 'Golos Text',system-ui,sans-serif;color:#fff;text-decoration:none;white-space:nowrap;box-shadow:0 1px 2px rgb(38 34 36 / .12),0 8px 18px -10px rgb(38 34 36 / .45);transition:background-color .25s,transform .3s cubic-bezier(.16,1,.3,1),box-shadow .3s cubic-bezier(.16,1,.3,1)}.ds-btn:hover{transform:translateY(-2px);box-shadow:0 2px 4px rgb(38 34 36 / .12),0 14px 26px -12px rgb(38 34 36 / .5)}.ds-btn:active{transform:translateY(0)}.ds-btn:focus-visible{outline:2px solid #a3405f;outline-offset:3px}.ds-btn svg{width:1.3rem;height:1.3rem}.ds-btn-viber{background:#665cac}.ds-btn-viber:hover{background:#554b98}"
+    },
+    {
+      "name": "WhatsApp Button",
+      "kind": "button",
+      "refersTo": "button-wa",
+      "description": "Second booking channel; always paired with Viber. Real build uses the WhatsApp brand icon.",
+      "html": "<a class=\"ds-btn ds-btn-wa\" href=\"#\"><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><circle cx=\"12\" cy=\"12\" r=\"9\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\"/></svg>Пишете в WhatsApp</a>",
+      "css": ".ds-btn{display:inline-flex;align-items:center;justify-content:center;gap:.6rem;min-height:3.25rem;padding:0 1.5rem;border:0;border-radius:999px;font:500 .97rem/1 'Golos Text',system-ui,sans-serif;color:#fff;text-decoration:none;white-space:nowrap;box-shadow:0 1px 2px rgb(38 34 36 / .12),0 8px 18px -10px rgb(38 34 36 / .45);transition:background-color .25s,transform .3s cubic-bezier(.16,1,.3,1),box-shadow .3s cubic-bezier(.16,1,.3,1)}.ds-btn:hover{transform:translateY(-2px);box-shadow:0 2px 4px rgb(38 34 36 / .12),0 14px 26px -12px rgb(38 34 36 / .5)}.ds-btn:active{transform:translateY(0)}.ds-btn:focus-visible{outline:2px solid #a3405f;outline-offset:3px}.ds-btn svg{width:1.3rem;height:1.3rem}.ds-btn-wa{background:#0f7a6e}.ds-btn-wa:hover{background:#0b665c}"
+    },
+    {
+      "name": "Rose Button",
+      "kind": "button",
+      "refersTo": "button-rose",
+      "description": "In-page jump to the contact section.",
+      "html": "<a class=\"ds-btn ds-btn-rose\" href=\"#\">Запиши час</a>",
+      "css": ".ds-btn{display:inline-flex;align-items:center;justify-content:center;gap:.6rem;min-height:3.25rem;padding:0 1.5rem;border:0;border-radius:999px;font:500 .97rem/1 'Golos Text',system-ui,sans-serif;color:#fff;text-decoration:none;white-space:nowrap;box-shadow:0 1px 2px rgb(38 34 36 / .12),0 8px 18px -10px rgb(38 34 36 / .45);transition:background-color .25s,transform .3s cubic-bezier(.16,1,.3,1),box-shadow .3s cubic-bezier(.16,1,.3,1)}.ds-btn:hover{transform:translateY(-2px);box-shadow:0 2px 4px rgb(38 34 36 / .12),0 14px 26px -12px rgb(38 34 36 / .5)}.ds-btn:active{transform:translateY(0)}.ds-btn:focus-visible{outline:2px solid #a3405f;outline-offset:3px}.ds-btn svg{width:1.3rem;height:1.3rem}.ds-btn-rose{background:#a3405f}.ds-btn-rose:hover{background:#86304c}"
+    },
+    {
+      "name": "Before/After Pair",
+      "kind": "custom",
+      "refersTo": "tag-after",
+      "description": "Signature proof unit: Преди left, След right, matched 3:4 face-scale crops, rose След tag.",
+      "html": "<div class=\"ds-pair\"><a class=\"ds-shot\" href=\"#\"><span class=\"ds-tag\">Преди</span></a><a class=\"ds-shot\" href=\"#\"><span class=\"ds-tag ds-tag-after\">След</span></a></div>",
+      "css": ".ds-tag{position:absolute;top:.75rem;left:.75rem;padding:.45rem .7rem .4rem;font:400 .68rem/1 'Tenor Sans','Gill Sans',sans-serif;letter-spacing:.18em;text-transform:uppercase;color:#262224;background:rgb(255 255 255 / .92);border-radius:999px}.ds-tag-after{color:#fff;background:#a3405f}.ds-pair{display:grid;grid-template-columns:1fr 1fr;gap:6px;max-width:28rem;padding:1rem;background:#2a2125}.ds-shot{position:relative;display:block;aspect-ratio:3/4;border-radius:4px;overflow:hidden;background:#3a2f34;cursor:zoom-in}.ds-shot:focus-visible{outline:2px solid #f4edef;outline-offset:3px}"
+    },
+    {
+      "name": "Header Navigation",
+      "kind": "nav",
+      "refersTo": "button-sm",
+      "description": "Sticky translucent bar: lockup, grey links with rose underline on hover, small rose booking button.",
+      "html": "<header class=\"ds-head\"><span class=\"ds-lock\"><span class=\"ds-name\">Д-р Ц. Нейчева</span><span class=\"ds-studio\">Dental Flower Studio</span></span><nav><a href=\"#\">Резултати</a><a href=\"#\">Услуги</a><a href=\"#\">Контакт</a></nav><a class=\"ds-head-btn\" href=\"#\">Запиши час</a></header>",
+      "css": ".ds-head{display:flex;align-items:center;gap:2rem;padding:.8rem 1.5rem;background:rgb(250 249 248 / .9);backdrop-filter:saturate(1.4) blur(10px);border-bottom:1px solid #e6e0e2}.ds-lock{display:grid;gap:.2rem}.ds-name{font:400 1.02rem/1 Forum,serif;letter-spacing:.1em;text-transform:uppercase;color:#262224}.ds-studio{font:400 .62rem/1 'Tenor Sans',sans-serif;letter-spacing:.2em;text-transform:uppercase;color:#5f5a5c}.ds-head nav{margin-left:auto;display:flex;gap:1.5rem}.ds-head nav a{font:400 .92rem 'Golos Text',system-ui,sans-serif;color:#5f5a5c;text-decoration:none;transition:color .2s}.ds-head nav a:hover{color:#262224;text-decoration:underline;text-decoration-color:#a3405f;text-underline-offset:.25em}.ds-head-btn{display:inline-flex;align-items:center;min-height:2.6rem;padding:0 1.15rem;border-radius:999px;background:#a3405f;color:#fff;font:500 .9rem/1 'Golos Text',system-ui,sans-serif;text-decoration:none}.ds-head-btn:hover{background:#86304c}.ds-head a:focus-visible{outline:2px solid #a3405f;outline-offset:3px;border-radius:4px}"
+    },
+    {
+      "name": "Price Row",
+      "kind": "custom",
+      "refersTo": "title-sm",
+      "description": "Service name and description left, tabular Tenor Sans price right, rose hairline on Blush.",
+      "html": "<ul class=\"ds-prices\"><li><div><h3>Професионално избелване</h3><p>По-светъл цвят на зъбите, постигнат безопасно.</p></div><span class=\"ds-price\">— €</span></li></ul>",
+      "css": ".ds-prices{margin:0;padding:1rem 1.5rem;list-style:none;background:#f5ebee}.ds-prices li{display:flex;justify-content:space-between;align-items:baseline;gap:1.5rem;padding:1.35rem 0;border-top:1px solid rgb(163 64 95 / .18)}.ds-prices h3{margin:0;font:400 1.4rem/1.2 Forum,serif;color:#262224}.ds-prices p{margin:.3rem 0 0;font:400 .96rem/1.65 'Golos Text',system-ui,sans-serif;color:#5f5a5c}.ds-price{font:400 1.05rem/1 'Tenor Sans',sans-serif;letter-spacing:.04em;font-variant-numeric:tabular-nums lining-nums;white-space:nowrap}"
+    },
+    {
+      "name": "Process Step",
+      "kind": "custom",
+      "refersTo": "title",
+      "description": "Rose Forum numeral, Forum title, grey description, hairlines between steps.",
+      "html": "<ol class=\"ds-steps\"><li><h3>Консултация</h3><p>Преглед и разговор.</p></li><li><h3>План на лечение</h3><p>Изготвяме план за вас.</p></li></ol>",
+      "css": ".ds-steps{margin:0;padding:0;list-style:none;counter-reset:s}.ds-steps li{counter-increment:s;display:grid;grid-template-columns:3.5rem 1fr;column-gap:1rem;padding:1.6rem 0;border-top:1px solid #e6e0e2}.ds-steps li:last-child{border-bottom:1px solid #e6e0e2}.ds-steps li::before{content:counter(s);grid-row:span 2;font:400 2.6rem/1 Forum,serif;color:#a3405f}.ds-steps h3{margin:0;font:400 1.6rem/1.15 Forum,serif;color:#262224}.ds-steps p{margin:.4rem 0 0;font:400 1.0625rem/1.65 'Golos Text',system-ui,sans-serif;color:#5f5a5c}"
+    },
+    {
+      "name": "Contact Card",
+      "kind": "card",
+      "refersTo": "contact-card",
+      "description": "The single raised container: centred booking pair and facts.",
+      "html": "<div class=\"ds-card\"><h2>Запишете час</h2><p>Пишете във Viber или WhatsApp.</p><dl><div><dt>Телефон</dt><dd>—</dd></div><div><dt>Адрес</dt><dd>—</dd></div></dl></div>",
+      "css": ".ds-card{max-width:32rem;padding:3rem 2rem;text-align:center;background:#fff;border-radius:10px;box-shadow:0 1px 2px rgb(38 34 36 / .06),0 30px 70px -40px rgb(38 34 36 / .45)}.ds-card h2{margin:0;font:400 2.4rem/1.05 Forum,serif;color:#262224}.ds-card p{margin:1rem 0 0;font:400 1.1rem/1.65 'Golos Text',system-ui,sans-serif;color:#5f5a5c}.ds-card dl{margin:2rem 0 0;padding-top:2rem;border-top:1px solid #e6e0e2;display:grid;grid-template-columns:1fr 1fr;gap:1.2rem}.ds-card dt{font:400 .7rem/1 'Tenor Sans',sans-serif;letter-spacing:.18em;text-transform:uppercase;color:#5f5a5c}.ds-card dd{margin:.55rem 0 0;font-size:1.05rem}"
+    }
+  ],
+  "narrative": {
+    "northStar": "Her Work Is the Proof",
+    "overview": "A gallery-white aesthetic dental studio. The page reads first as a dental practice and second as a person: real patient transformations, photographed in her studio, carry the argument; the type and colour only frame them. The ground is the warm white of a treatment-room wall, the ink is the warm grey of her logo, and one rose accent marks what to do and what changed. Results sit on a dark night-rose field so the photographs read like prints on a lightbox wall.\n\nThe voice is calm and feminine without being decorative. Forum's flared Roman capitals and Tenor Sans' wide caps both come from her own lockup; Golos Text carries everything a nervous patient actually has to read. The only ornament is her tooth-petal flower mark. There is no conceptual metaphor and no stock imagery: the stationery/invitation world was built and rejected as too far from a dental studio, and nothing from it carries forward.\n\nThe build is pure HTML and CSS with no JavaScript. Booking happens only through Viber and WhatsApp deep links; there is no email form anywhere.",
+    "keyCharacteristics": [
+      "Real before/after photography as the hero and the main section, always in matched pairs.",
+      "Warm near-white ground, warm grey ink, a single rose accent, one dark night-rose field.",
+      "Flared serif display, wide-tracked caps for labels, a plain humanist sans for reading.",
+      "Pill-shaped buttons in the messaging channels' own colours; rose pills for in-page booking jumps.",
+      "Hairline rules instead of boxes; soft, long, low-opacity shadows only on raised photo and card surfaces.",
+      "Restrained motion: one wipe-in on the hero result, a slow zoom on case hover, nothing else."
+    ],
+    "rules": [
+      {
+        "name": "The Rose Means Action-or-After Rule",
+        "body": "Rose as a solid fill is reserved for things you press (rose booking buttons) and for the \"after\" state (the \"След\" tag). As ink it stays at small anchoring points (a numeral, a quote mark, the \"after\" line of the hero headline). Never use rose for decoration, section backgrounds, borders or icons beyond those points; its tint, Blush, is the only rose surface.",
+        "section": "colors"
+      },
+      {
+        "name": "The One Dark Field Rule",
+        "body": "Night Rose is the field for results and the footer only. Photographs of results sit on it; nothing else goes dark.",
+        "section": "colors"
+      },
+      {
+        "name": "The Channel Colours Belong to the Channel Rule",
+        "body": "Viber violet and WhatsApp teal appear only on their own buttons, never as accents elsewhere.",
+        "section": "colors"
+      },
+      {
+        "name": "The Lockup Voices Rule",
+        "body": "Forum and Tenor Sans exist because her lockup uses flared Roman caps over a wide humanist sans. Forum takes display, headings and the name; Tenor Sans takes only short uppercase labels and prices. Never set running text in either.",
+        "section": "typography"
+      },
+      {
+        "name": "The Single-Weight Serif Rule",
+        "body": "Forum is used at weight 400 only; hierarchy comes from size, not weight. Golos uses 400 for text and 500 only for button labels.",
+        "section": "typography"
+      },
+      {
+        "name": "The One Step to Book Rule",
+        "body": "At every width, a Viber/WhatsApp pair or a rose booking button is visible or one tap away: header button on desktop, fixed dock on mobile, the contact card at the end.",
+        "section": "layout"
+      },
+      {
+        "name": "The Hairline-Not-Box Rule",
+        "body": "Lists (process steps, prices, facts) are separated by 1px hairlines, not enclosed in cards. On Blush the hairline is rose at 18% opacity. The contact card is the only enclosed container.",
+        "section": "elevation"
+      }
+    ],
+    "dos": [
+      "Do lead with real before/after results; the photographs are the argument.",
+      "Do show every result as a pair: \"Преди\" left, \"След\" right, matched face-scale 3:4 crops, a white \"Преди\" tag and a rose \"След\" tag.",
+      "Do keep booking to Viber and WhatsApp deep links, shown as a pair with their icons, Viber first.",
+      "Do keep rose to action, the \"after\" state and a few small ink anchors (numerals, quote marks, the \"after\" headline line).",
+      "Do separate lists with 1px hairlines (#e6e0e2, or rose at 18% on Blush) rather than cards.",
+      "Do tint shadows with the warm ink and keep them soft, long and negatively spread.",
+      "Do use Bulgarian quote marks („ “) and keep body measure at 38–46ch.",
+      "Do mark every unknown client fact with the `.tbd` placeholder instead of a guessed value.",
+      "Do honour prefers-reduced-motion: all animation and transitions off."
+    ],
+    "donts": [
+      "Don't add JavaScript; the site is static HTML and CSS.",
+      "Don't add an email or contact form; booking is Viber and WhatsApp only.",
+      "Don't use stock photography or stock smiles; only her own patients' photographs, with consent.",
+      "Don't use rose for decoration, section fills, borders or generic icons.",
+      "Don't set running text in Forum or Tenor Sans, or use Forum at any weight other than 400.",
+      "Don't treat the current flower SVG as a finished mark: it is a stand-in for her logo, to be replaced with the supplied file and never redrawn.",
+      "Don't reintroduce the rejected stationery/invitation world or any conceptual metaphor.",
+      "Don't add motion beyond the hero wipe-in, the case hover zoom and the button lift."
+    ]
+  }
+}
